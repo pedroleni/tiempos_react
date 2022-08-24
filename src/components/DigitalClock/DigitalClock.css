@@ -1,0 +1,17 @@
+.digital-clock{
+    width: 300px;
+    border: solid black;
+    margin:29px;
+    border-radius: 20px;
+    color: rgb(17, 6, 80);
+    padding: 20px;
+    
+    background: rgb(255,254,179);
+background: radial-gradient(circle, rgba(255,254,179,1) 42%, rgb(135, 59, 18) 100%);
+box-shadow: 2px 2px 2px 2px ;
+transition: all 200ms;
+}
+.digital-clock:hover{
+    transform: scale(1.1);
+    transition: all 200ms;
+}

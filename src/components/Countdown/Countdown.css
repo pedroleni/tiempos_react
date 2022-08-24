@@ -1,0 +1,17 @@
+.countdown{
+    width: 300px;
+    border: solid black;
+    margin:29px;
+    border-radius: 20px;
+    color: rgb(17, 6, 80);
+    padding: 20px;
+    
+    background: rgb(228,255,179);
+background: radial-gradient(circle, rgba(228,255,179,1) 42%, rgba(18,129,135,1) 100%);
+box-shadow: 2px 2px 2px 2px ;
+transition: all 200ms;
+}
+.countdown:hover{
+    transform: scale(1.1);
+    transition: all 200ms;
+}
