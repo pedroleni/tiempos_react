@@ -19,6 +19,12 @@ transition: all 200ms;
 
 @media (max-width: 500px){
     .countdown{
-        width: 150px;}
+        width: 150px;
+        font-size: 13px;
+
+    
+
+
+    }
 
 }
