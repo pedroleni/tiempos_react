@@ -15,3 +15,10 @@ transition: all 200ms;
     transform: scale(1.1);
     transition: all 200ms;
 }
+
+
+@media (max-width: 500px){
+    .digital-clock{
+        width: 150px;}
+
+}

@@ -39,3 +39,9 @@
 .read-the-docs {
   color: #888;
 }
+
+@media (max-width: 500px){
+  .body{
+      font-size: 15px}
+
+}
