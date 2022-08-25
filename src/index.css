@@ -53,8 +53,6 @@ body {
   margin: 0;
   display: flex;
   place-items: center;
-  min-width: 320px;
-  min-height: 100vh;
   background: url("https://img.freepik.com/vector-premium/patron-fisuras-reloj-color-textura-tiempo_1085-1909.jpg?w=1380");
   background-size: 20%;
 }
