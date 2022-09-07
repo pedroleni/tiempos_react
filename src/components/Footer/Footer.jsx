@@ -10,7 +10,7 @@ const Footer = () => {
     <footer>
 
         
-        <div>
+        <div className="div_footer">
             <ul>
                 <li>@Pedro Lerida Nieto 2022</li>
                 <li className="image_footer"><a href="https://github.com/pedroleni" target="_blank"><img src="https://avatars.githubusercontent.com/u/38913098?v=4" alt="github"/></a></li>
